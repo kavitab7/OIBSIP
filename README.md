@@ -15,4 +15,4 @@ Task 3 :- Temperature converter
 
 This website convert the temperature in kelvin, celsius and fahrenheit using HTML, CSS and Javasript.
 
-![Screenshot (92)](https://user-images.githubusercontent.com/112501593/208481779-d5565b00-c76c-47f4-8f5d-0642ab12fe48.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/112501593/208487082-2f8a102d-b0b8-4f46-b6c8-e1bb830bc80d.png)
